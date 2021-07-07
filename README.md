@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow &#60;Developers/&#62; ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow &#60;Developers/&#62; ! </h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jithin2312.Jithin2312)
