@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jithin2312.Jithin2312)
 
 </p>
-<div size='20px'> Hi! My name is Jithin. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is <strong>Jithin</strong>. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br>
 <div align="center">
