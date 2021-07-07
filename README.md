@@ -7,7 +7,7 @@
 <h4 align="center"> Passionate Web developer and aspiring Game developer.</h4>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jithin2312.Jithin2312)
+![Views](https://visitor-badge.glitch.me/badge?page_id=jit-hin.jit-hin)
 
 </p>
 <div size='20px'> Hi! My name is <strong>Jithin</strong>. Thank You for taking the time to view my GitHub Profile :smile: 
