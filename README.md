@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on *My portfolio*.
 
-- 🌱 I’m currently learning *C++*.
+- 🌱 I’m currently learning *TypeScript*.
 
 - 💬 Talk to me about *JavaScript* , *Css* , *Node*, *React*. 
 <hr>
