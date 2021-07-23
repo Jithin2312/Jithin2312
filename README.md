@@ -24,9 +24,8 @@
 
 - 🔭 I’m currently working on *My portfolio*.
 
-- 🌱 I’m currently learning *TypeScript*.
+- 🌱 I’m currently learning *TypeScript* and *Python*.
 
-- 💬 Talk to me about *JavaScript* , *Css* , *Node*, *React*. 
 <hr>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="left">
