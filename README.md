@@ -22,7 +22,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [My Web Developer Portfolio](https://mrjithin.netlify.app/).
+- 🔭 I’m currently working on [My Web Developer Portfolio](https://www.mrjithin.me/).
 
 - 🌱 I’m currently learning *TypeScript* and *React*.
 
